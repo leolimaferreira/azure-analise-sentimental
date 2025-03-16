@@ -26,6 +26,8 @@
 
 ### Esta análise foi perfeita em relação ao texto inputado.
 
+---
+
 ### Análise da Quinta Frase
 ![Análise da Quinta Frasee](https://github.com/user-attachments/assets/78d28ed4-2111-4855-af1e-8d2a95454ccd)
 
